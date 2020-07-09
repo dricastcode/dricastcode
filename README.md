@@ -1,4 +1,4 @@
-### Hi there 👋
+### Vanilla JavaScript is the best flavor 
 
 <!--
 **adrianage/adrianage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
