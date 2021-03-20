@@ -1,4 +1,4 @@
-### Vanilla JavaScript is the best flavor 
+### I'm currently learning JavaScript, self-taught one day at a time.
 
 <!--
 **adrianage/adrianage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
