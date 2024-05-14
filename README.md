@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on my resume
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on volunteer code
-- 💬 Ask me about anything! 
 - ⚡ Fun fact: I once sold a picture to the Backstreet Boys Ad Agency 😁
 
 <!--
